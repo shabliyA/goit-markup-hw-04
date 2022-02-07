@@ -132,7 +132,10 @@ fill: var(--second-title-color);
     width: 10px;
     height: 16px;
 }
-  
+.icon-antenna{
+    width: 100px;
+    height: 100px;
+}
 .icon-envelope {
     width: 100px;
     height: 100px;
@@ -209,7 +212,7 @@ fill: var(--second-title-color);
     background-size: 70px;
     background-repeat: no-repeat;
     background-position: center;
-    background-color: #f5f4fa;
+    background-color: #F5F4FA;
     border-radius: 4px;
   }
 .pecul-item {
@@ -434,3 +437,16 @@ margin-bottom: 9px;
 .transparency {
 color: rgba(255, 255, 255, 0.6);
 }
+.cont {
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+  }
+  
+.icon {
+    margin-left: 12px;
+    margin-right: 12px;
+    border: 2px dashed #2a2a2a;
+    border-radius: 8px;
+    fill: #2a2a2a;
+  }
