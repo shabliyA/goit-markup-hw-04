@@ -246,7 +246,7 @@ body {
 
 .peculiarities-list {
   display: flex;
-  margin-bottom: 90px;
+  margin-bottom: 0px;
 }
 
 .peculiarities-icon {
